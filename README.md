@@ -22,7 +22,7 @@ The goal of this project was for the students to learn and familiarize themselve
     - How many in a minute
 
 ### Links
-[ASGE API](https://huxyuk.github.io/AwesomeSauceGE/). Use the API docs to easily search for classes and functions. If using CLion Ctrl+Q will show Doxygen hints inline with the code.
+[ASGE API](https://huxyuk.github.io/AwesomeSauceGE/).
 
 ### Credits
 
